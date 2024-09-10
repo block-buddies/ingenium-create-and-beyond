@@ -1,0 +1,13 @@
+name = "Wildlife Expanded: Skunk"
+filename = "skunk-fabric-1.20.1-2.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kRv0Emog/versions/FlNg1Hfd/skunk-fabric-1.20.1-2.0.2.jar"
+hash-format = "sha512"
+hash = "58c0a05c789f2e7f926b62aeb1e7cb9ef045aa879c275c026a8ac42158db3a61518b807c745b81f853333b4b4a16f3f60eaa8b30fbabf8e8c91b971a8933881a"
+
+[update]
+[update.modrinth]
+mod-id = "kRv0Emog"
+version = "FlNg1Hfd"
