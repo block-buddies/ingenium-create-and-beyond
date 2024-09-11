@@ -1,0 +1,6 @@
+.idea/
+*.mrpack
+*.zip
+docs/
+README.md
+dist

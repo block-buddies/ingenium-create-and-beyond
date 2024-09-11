@@ -1,12 +1,12 @@
-name = "Create With Friends"
-author = "Daniel Richter"
+name = "Ingenium: Create & Beyond"
+author = "Block Buddies"
 version = "0.1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "448e78e24ffe1d0fff331c9d107e8c1f92e1d26c45e7624a168296c71a041622"
+hash = "4b4301a7f56ccdcd4f64a3f2b6a71267a0ab8619334f50261f67cbe72494bf34"
 
 [versions]
 fabric = "0.16.3"

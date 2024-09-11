@@ -1,32 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".idea/create-with-friends.iml"
-hash = "c96ea0b5b29abb7d5807671dd208fd63f63694dd236335d2fe8c074e89e94aa6"
-
-[[files]]
-file = ".idea/misc.xml"
-hash = "45e1de29c2ec54466bc1c279a7f432d6e89c42764cd821662e691b056ba070b8"
-
-[[files]]
-file = ".idea/modules.xml"
-hash = "2411488ca0e84e890fea7b1c6b3a561522965bb0c36730a574c79f200d483116"
-
-[[files]]
-file = ".idea/vcs.xml"
-hash = "136f8b0a20e3e16f5b60e8505219c34746e1ec62c68433f4f8ec97eefe3aa038"
-
-[[files]]
-file = ".idea/workspace.xml"
-hash = "07e12ef1a4bb855bc923922a106d38a6dd458a1ac4d78c724991c2985dfc48a1"
-
-[[files]]
-file = ".packignore"
-hash = "ad4e73f248c4a7e74dd6b6c3a72d7852dff6caf31f7813a61a08d2bfa7b7b443"
-
-[[files]]
-file = "README.md"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+file = "config/emi.css"
+hash = "baf6725cdbe9f840b53b0b09d72cf908b2da64be8135d0c455ba83200e4f1475"
 
 [[files]]
 file = "mods/accessories-tc-layer.pw.toml"
@@ -429,6 +405,14 @@ hash = "d201155cab7c2a2cf940d91f240be769ac12046c2fc6a0774e225a8e51423ed0"
 metafile = true
 
 [[files]]
+file = "options.txt"
+hash = "1db701d148881546b37983151f80a63aa5cfb9b004cc160379165a76b52e7b1f"
+
+[[files]]
+file = "packwiz-installer-bootstrap.jar"
+hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
+
+[[files]]
 file = "resourcepacks/better-lanterns.pw.toml"
 hash = "120a936d5345b58a613ce793b0ce4bd6527aec7125eed4b6177f45d6e8602fb5"
 metafile = true
@@ -437,6 +421,10 @@ metafile = true
 file = "resourcepacks/geometric-font.pw.toml"
 hash = "8327ed2b3159c128ae855839a66d19566254dc2af1dd41a1591bbd128cb0d437"
 metafile = true
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.2.2.zip.txt"
+hash = "0e1e8842f6c6039476715b64feba8e849fa66e2d603b3c884ec546712031889c"
 
 [[files]]
 file = "shaderpacks/complementary-unbound.pw.toml"
