@@ -19,11 +19,20 @@ quality of life mods and some additional gameplay mechanics while still keeping 
 > However the official method is through modrinth.
 
 Follow [Pack Installation using packwiz-installer](https://packwiz.infra.link/tutorials/installing/packwiz-installer/).
-Although the guide says it can be used with MultiMC/ATLauncher, Modrinth works too, replace $JAVA_INST with java
-
+Although the guide says it can be used with MultiMC/ATLauncher, Modrinth works too. Use the following pre launch task
+```
+java -jar packwiz-installer-bootstrap.jar -g -s both http://localhost:8080/pack.toml
+```
 
 # Development
 
+1. Make Changes
+2. Update version
+3. commit
+4. push
+5. build
+
+## Commands
 ```shell
 # serve modpack locally
 packwiz serve
@@ -36,5 +45,5 @@ packwiz mr install <name>
 
 ```shell
 # export
-packwiz mr export -o ingenium.mrpack
+packwiz mr export -o dist/ingenium.mrpack
 ```

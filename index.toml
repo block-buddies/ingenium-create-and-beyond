@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "autoupdate.pw.toml"
+hash = "f092194fbe4bb0f626c1faa062a94468be980bd9f80df215205cb5f45d0225b5"
+metafile = true
+
+[[files]]
 file = "config/emi.css"
 hash = "baf6725cdbe9f840b53b0b09d72cf908b2da64be8135d0c455ba83200e4f1475"
 
@@ -407,10 +412,6 @@ metafile = true
 [[files]]
 file = "options.txt"
 hash = "1db701d148881546b37983151f80a63aa5cfb9b004cc160379165a76b52e7b1f"
-
-[[files]]
-file = "packwiz-installer-bootstrap.jar"
-hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
 
 [[files]]
 file = "resourcepacks/better-lanterns.pw.toml"
