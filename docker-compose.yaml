@@ -1,0 +1,24 @@
+services:
+  mc:
+    restart: unless-stopped
+    image: itzg/minecraft-server
+    tty: true
+    stdin_open: true
+    ports:
+      - "25565:25565"
+      - "9940:9940"
+      - "25585:25585"
+      - "8100:8100"
+    environment:
+      EULA: "TRUE"
+      TYPE: "FABRIC"
+      USE_AIKAR_FLAGS: "true"
+      VERSION: "1.20.1"
+      MEMORY: 4G
+      OPS: danielr1996
+      VIEW_DISTANCE: 16
+      PACKWIZ_URL: /cwd/pack.toml
+      ONLINE_MODE: true
+    volumes:
+      - ./data/mc:/data
+      - .:/cwd

@@ -34,16 +34,9 @@ java -jar packwiz-installer-bootstrap.jar -g -s both https://raw.githubuserconte
 
 ## Commands
 ```shell
-# serve modpack locally
 packwiz serve
-```
-
-```shell
-# add modpack
 packwiz mr install <name>
-```
-
-```shell
-# export
+packwiz remove <name>
 packwiz mr export -o dist/ingenium.mrpack
+packwiz refresh
 ```

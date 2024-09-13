@@ -4,3 +4,5 @@
 docs/
 README.md
 dist
+docker-compose.yaml
+data
