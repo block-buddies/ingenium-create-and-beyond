@@ -10,6 +10,10 @@ file = "config/emi.css"
 hash = "baf6725cdbe9f840b53b0b09d72cf908b2da64be8135d0c455ba83200e4f1475"
 
 [[files]]
+file = "config/travelerstitles-fabric-1_20.toml"
+hash = "f6073b765370471e88cdc927857a553e16a6262d7aa04e4aa12f4b04fb159a84"
+
+[[files]]
 file = "mods/accessories-tc-layer.pw.toml"
 hash = "35dfe7cbf1a986dfe72b2656138b49fe457c91c21c58a01d2abf4631d65bf59c"
 metafile = true
@@ -116,7 +120,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "0e6cd851a0625b4f41f60e0ecb700f984c5002ba3aabc096c2b499b3f86ac406"
+hash = "03263de90ee530441c504d15d74086d5d77b2f9b1271914c06f98ac186659254"
 metafile = true
 
 [[files]]
@@ -150,6 +154,11 @@ hash = "8a1832e5352f6ea6307b9af759034ac9a9b654823120cc8181f7f36171d7c24f"
 metafile = true
 
 [[files]]
+file = "mods/geckoanimfix.pw.toml"
+hash = "57b3027a5fc1975acd687f947a02f70ed0693f4bd2bee293ab42583609f95839"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "b5101554156ef1298ba8e68cc2dfbc6e05723b0fb6226081593a129e85a347a5"
 metafile = true
@@ -162,6 +171,11 @@ metafile = true
 [[files]]
 file = "mods/indium.pw.toml"
 hash = "3d41978dc3fd1d7b7eebe51a7c04e49707e7e7c66f764a1bed0cc214e4032995"
+metafile = true
+
+[[files]]
+file = "mods/iris-flw-compat.pw.toml"
+hash = "3448fc32106cb97efb4da88e5ea44056ec62d4e5b172a2f71696dab0ca2ccbe8"
 metafile = true
 
 [[files]]
@@ -297,6 +311,11 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-core-(unofficial-fabric-port).pw.toml"
 hash = "28285c1930d3715846802d20b5aaf18a6fba094cc37519c83ec498727712a008"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "96e3771cd09bb4a808d1c1fcb5a050efdc2ffb4efe7b584407ed54c46c0388d9"
 metafile = true
 
 [[files]]
