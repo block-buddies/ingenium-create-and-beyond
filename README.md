@@ -21,7 +21,7 @@ quality of life mods and some additional gameplay mechanics while still keeping 
 Follow [Pack Installation using packwiz-installer](https://packwiz.infra.link/tutorials/installing/packwiz-installer/).
 Although the guide says it can be used with MultiMC/ATLauncher, Modrinth works too. Use the following pre launch task
 ```
-java -jar packwiz-installer-bootstrap.jar -g -s both http://localhost:8080/pack.toml
+java -jar packwiz-installer-bootstrap.jar -g -s both https://raw.githubusercontent.com/block-buddies/ingenium-create-and-beyond/refs/heads/main/pack.toml
 ```
 
 # Development
