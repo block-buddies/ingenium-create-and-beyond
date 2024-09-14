@@ -139,6 +139,16 @@ hash = "ebd92e07834dae22ebb7340a1112ac20d79869ec12ef5107938f564dee2661d2"
 metafile = true
 
 [[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "eae8d54cd5848b9e0a2dcd21be161724bcef2f27be24577fb036a8fa024dfea5"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight-refabricated.pw.toml"
+hash = "20fb844701c598c4e24eac283ce0fca4f81f1a7e46e38b49dcbf95bfb575b9f5"
+metafile = true
+
+[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "5213b7d2f88e92f1903295de37db55684656a66b1e85b791673500947088340a"
 metafile = true
@@ -254,6 +264,11 @@ hash = "3f678c4ade25a4b4b54aacf25db155658c1ec605bbeaf0ea6b8ed5d0dbc062e1"
 metafile = true
 
 [[files]]
+file = "mods/overweight-farming.pw.toml"
+hash = "f0bdc386f69c1fabae6098e921a77b8bf795c203244a61285ba11634dbcc48db"
+metafile = true
+
+[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "df4c4fe3aff1792aa7d19d097d5d1bc0c6e958e6e4ee32dbf148ecac62e1274d"
 metafile = true
@@ -296,6 +311,16 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "830270b8e5a34f5621720ae09c4cf716a65d8003a30d585c8b817aba1fde9ac8"
+metafile = true
+
+[[files]]
+file = "mods/separatedleaves.pw.toml"
+hash = "3e4e75703a1575a8f3a5033a10d1c503fbcca8357775eb6e816355779885d1c0"
+metafile = true
+
+[[files]]
+file = "mods/slice-and-dice.pw.toml"
+hash = "9697452898b931432fce197542bf47134f25a9105d0b4c01705bec1aaaed145c"
 metafile = true
 
 [[files]]

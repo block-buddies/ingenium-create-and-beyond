@@ -1,12 +1,12 @@
 name = "Ingenium: Create & Beyond"
 author = "Block Buddies"
-version = "0.2.0"
+version = "0.3.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "31ea58707d2f4de75ed31859e620a385e9d4fccc0e91be639710abcbef1d3ab7"
+hash = "1532e48099fe83274e1e7142b817bc880413cb2b8312961c78d62e011af8c856"
 
 [versions]
 fabric = "0.16.3"
