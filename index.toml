@@ -6,6 +6,10 @@ hash = "f092194fbe4bb0f626c1faa062a94468be980bd9f80df215205cb5f45d0225b5"
 metafile = true
 
 [[files]]
+file = "config/MouseTweaks.cfg"
+hash = "438de2af36bf905993252e5015ad3b2f907473f0ad2722d6c79185728bb9b20b"
+
+[[files]]
 file = "config/emi.css"
 hash = "baf6725cdbe9f840b53b0b09d72cf908b2da64be8135d0c455ba83200e4f1475"
 
@@ -29,6 +33,11 @@ hash = "44b701cd39246e1699d49278cb55459d3b80768e69c56fa4c36bb8dd03605868"
 metafile = true
 
 [[files]]
+file = "mods/another-furniture.pw.toml"
+hash = "e8d8fda7893c13e034a09b33d0a1258a54b0445d533f90d00a50d9a8d862921a"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "7d44149b8b22e0b19b082f49809edfc1b5f170e5d1d297cd73ae88c0b432c3ab"
 metafile = true
@@ -46,6 +55,11 @@ metafile = true
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
 hash = "0b5feeae74fe992084ec5cb12eab3404ddd5054e85c9006f7ba4d65f209de13f"
+metafile = true
+
+[[files]]
+file = "mods/botany-pots.pw.toml"
+hash = "0904ae360d913b82f5dbf5c50a34859ca87cd01f8d482884001b37447d93dc5f"
 metafile = true
 
 [[files]]
@@ -84,8 +98,18 @@ hash = "06145ca45de626bfe5698843947c863648d2a1326766f0b92122eaefcbad1010"
 metafile = true
 
 [[files]]
+file = "mods/crate-delight.pw.toml"
+hash = "72a03d7c8d1b19b9fbc917d94bb7d15ad4379fbf4d96384cd86069352216beac"
+metafile = true
+
+[[files]]
 file = "mods/create-cobblestone.pw.toml"
 hash = "c7e297a469a54cbfce1a02bafa6bdb71697f874ada3eb454efe825f6084167a2"
+metafile = true
+
+[[files]]
+file = "mods/create-connected-fabric.pw.toml"
+hash = "bffbbcf7d671202e53662d174cae08ab4904d16870106ef4343f5f3d53026c29"
 metafile = true
 
 [[files]]
@@ -219,8 +243,18 @@ hash = "e9aabc3f7f33eb0fd1b31ad33e188feb1a65dce5531b141fa988ec9fbade0146"
 metafile = true
 
 [[files]]
+file = "mods/macaws-bridges.pw.toml"
+hash = "5cb9996ba53a38d94f86ae72a6106a338b221367ca40b21359e038b4f7ea283c"
+metafile = true
+
+[[files]]
 file = "mods/macaws-doors.pw.toml"
 hash = "0b8e759353c2f52b2eec3277693e151e7c1f41df7db88875dab1f9672d4b45ca"
+metafile = true
+
+[[files]]
+file = "mods/macaws-lights-and-lamps.pw.toml"
+hash = "e6e632c4776339e06e0cb8d038bbc993fe87cadbef25c3cc0e22c6fa879e662c"
 metafile = true
 
 [[files]]
@@ -319,6 +353,11 @@ hash = "3e4e75703a1575a8f3a5033a10d1c503fbcca8357775eb6e816355779885d1c0"
 metafile = true
 
 [[files]]
+file = "mods/sleep.pw.toml"
+hash = "96db2ff18d5393ccec5e8e009e4def5633f01bacb70301246245b33d344f13a6"
+metafile = true
+
+[[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "9697452898b931432fce197542bf47134f25a9105d0b4c01705bec1aaaed145c"
 metafile = true
@@ -341,6 +380,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "96e3771cd09bb4a808d1c1fcb5a050efdc2ffb4efe7b584407ed54c46c0388d9"
+metafile = true
+
+[[files]]
+file = "mods/storage-delight.pw.toml"
+hash = "ab2473c24a485a9b2a6c9302d8eeeef76d892c4183c7142540274396a7e08ebe"
 metafile = true
 
 [[files]]
@@ -458,8 +502,28 @@ file = "options.txt"
 hash = "1db701d148881546b37983151f80a63aa5cfb9b004cc160379165a76b52e7b1f"
 
 [[files]]
+file = "resourcepacks/3d-crops.pw.toml"
+hash = "b3a1e8b5219a31b8145109c432457bcd13cb201dd913d6d980657f80169a55ff"
+metafile = true
+
+[[files]]
+file = "resourcepacks/3d-ladders.pw.toml"
+hash = "ffe209fc20f9dc1e0c986a83ac17a2422d2b62a15bd6836a46247a756c45dacb"
+metafile = true
+
+[[files]]
 file = "resourcepacks/better-lanterns.pw.toml"
 hash = "120a936d5345b58a613ce793b0ce4bd6527aec7125eed4b6177f45d6e8602fb5"
+metafile = true
+
+[[files]]
+file = "resourcepacks/door-tweaks.pw.toml"
+hash = "bb1a9dace8267ee4bdc91360f3828de37fe03f4a3d9f2bce03ed418c8afa4852"
+metafile = true
+
+[[files]]
+file = "resourcepacks/enchant-icons-countxd.pw.toml"
+hash = "d9e7e86ddb96102cedc1173006459c1cb4338698087bf16258abb23dd7889219"
 metafile = true
 
 [[files]]
