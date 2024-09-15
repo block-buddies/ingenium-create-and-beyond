@@ -44,7 +44,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "e12dce3e543168379a2856c66064ee2001e6420a9dfc6163f37b78e518947456"
+hash = "13cb21e09b9d0d6622359f24f0bfed0e4123fcbaf7e65a1eb7e5396c47a56349"
 metafile = true
 
 [[files]]
@@ -159,7 +159,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "ebd92e07834dae22ebb7340a1112ac20d79869ec12ef5107938f564dee2661d2"
+hash = "8de441dd57379d434805fb87722233fa39e346a9152828e7ff49b0ed9b2bd518"
 metafile = true
 
 [[files]]
@@ -180,6 +180,26 @@ metafile = true
 [[files]]
 file = "mods/freecam.pw.toml"
 hash = "c1a67de25b30a152248043b704c4a47a1521c6012ef64b5b83dd9ad1a8c92dc0"
+metafile = true
+
+[[files]]
+file = "mods/ftb-chunks-fabric.pw.toml"
+hash = "479735a19070f574ba4af76248159da35c2aaf3f70a36155396cf7e00b4ec21b"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-fabric.pw.toml"
+hash = "8a7f673c71c9523fded9f5bfd607424f8d6109d7d3b387ce703e86f28d4d9cf5"
+metafile = true
+
+[[files]]
+file = "mods/ftb-quests-fabric.pw.toml"
+hash = "65230127d2f844c7feabe3883f93125b2eb0d354c14a9cbbd81bdc6b668cb490"
+metafile = true
+
+[[files]]
+file = "mods/ftb-teams-fabric.pw.toml"
+hash = "4b6e750998339114bf081528a710bf1f0090b52b9c83b971a727dd55157b67f7"
 metafile = true
 
 [[files]]
