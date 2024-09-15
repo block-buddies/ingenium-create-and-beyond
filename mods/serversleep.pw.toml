@@ -1,0 +1,13 @@
+name = "Server Sleep"
+filename = "serversleep-mod.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Cw8IlnGM/versions/jFozv05n/serversleep-mod.jar"
+hash-format = "sha512"
+hash = "21d924b637b9c5464395e7fc8e9af08d7ca4b787f5727cad20e4022cf361f63427e998e66b7e5d4aabe96ba7fa66b4a72f9e7d37e7f18046019f64ae7b1e7007"
+
+[update]
+[update.modrinth]
+mod-id = "Cw8IlnGM"
+version = "jFozv05n"

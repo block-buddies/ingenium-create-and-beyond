@@ -353,8 +353,8 @@ hash = "3e4e75703a1575a8f3a5033a10d1c503fbcca8357775eb6e816355779885d1c0"
 metafile = true
 
 [[files]]
-file = "mods/sleep.pw.toml"
-hash = "96db2ff18d5393ccec5e8e009e4def5633f01bacb70301246245b33d344f13a6"
+file = "mods/serversleep.pw.toml"
+hash = "7b952625a03c0f6596cccec24d447ca8352675809fbcf6409835daac9d68d466"
 metafile = true
 
 [[files]]
