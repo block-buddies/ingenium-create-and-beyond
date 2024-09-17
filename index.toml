@@ -453,6 +453,16 @@ hash = "6110a721acb5ed26ac1514767c6150b42801cf5d507deaf0ce055daece2cbb95"
 metafile = true
 
 [[files]]
+file = "mods/worldedit.pw.toml"
+hash = "bd1dc13316e2aa9b56c89e7e974057f8da8d6bbfe707ba4210109fc612b782e3"
+metafile = true
+
+[[files]]
+file = "mods/worldeditcui-fabric.pw.toml"
+hash = "48c5a8213925efd652a9e13f40116d53e0516e9147b27d6d0e0ae8cf68f83f6d"
+metafile = true
+
+[[files]]
 file = "mods/xaeroplus.pw.toml"
 hash = "521ac36fcf59c7c5ba258a9c80bf484e3ce826a7588d0a1560c5a5ce26d610f1"
 metafile = true
