@@ -1,0 +1,13 @@
+name = "Create: Ultimate Factory [Forge/Fabric]"
+filename = "create_ultimate_factory-1.6.0-fabric-1.20.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/N9QToVpw/versions/dLg1oZMa/create_ultimate_factory-1.6.0-fabric-1.20.1.jar"
+hash-format = "sha512"
+hash = "7f9f27f6194bd85540245683761316a6c4e92b0198f02aa064945fc25c62d347a8034b1e07fc85d9241d713614c31b23df1574f7a49886db642ae7077dd34256"
+
+[update]
+[update.modrinth]
+mod-id = "N9QToVpw"
+version = "dLg1oZMa"
