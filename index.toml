@@ -128,6 +128,11 @@ hash = "965b3cc83e1bca99bd1b89ec5f94495d831fcf7d03317cb50891752b0ca7ddc0"
 metafile = true
 
 [[files]]
+file = "mods/create-ultimate-factory.pw.toml"
+hash = "de5fe47c2267ebc3af6b1502232a088102949bfcff29a17580e299ab54173df9"
+metafile = true
+
+[[files]]
 file = "mods/cristel-lib.pw.toml"
 hash = "1eb94c241ed2d519e5bde972b0a7966041684d75cbfc724c3ec55227830316a1"
 metafile = true
