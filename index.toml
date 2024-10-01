@@ -10,8 +10,16 @@ file = "config/MouseTweaks.cfg"
 hash = "438de2af36bf905993252e5015ad3b2f907473f0ad2722d6c79185728bb9b20b"
 
 [[files]]
+file = "config/bluemap/core.conf"
+hash = "c432ab90f51dd6eaffe4748335640264a7d43456a7cd694f2d016e8c79f08f63"
+
+[[files]]
+file = "config/create-server.toml"
+hash = "7a41408bd3e304d2c63d0ffcf3119f4fb92d0e008edfab92575cab3f9ab6e5cd"
+
+[[files]]
 file = "config/emi.css"
-hash = "baf6725cdbe9f840b53b0b09d72cf908b2da64be8135d0c455ba83200e4f1475"
+hash = "5f2ea9e6ba9f0d650cf3e3cf71f869df8deb14b4170e889f10468ddc105cae80"
 
 [[files]]
 file = "config/travelerstitles-fabric-1_20.toml"
@@ -45,6 +53,11 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "13cb21e09b9d0d6622359f24f0bfed0e4123fcbaf7e65a1eb7e5396c47a56349"
+metafile = true
+
+[[files]]
+file = "mods/bluemap.pw.toml"
+hash = "f96656076717dcadf38073af32ce253b2cfd0f5ff1785c03450e146f06213ee3"
 metafile = true
 
 [[files]]
@@ -164,7 +177,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "8de441dd57379d434805fb87722233fa39e346a9152828e7ff49b0ed9b2bd518"
+hash = "ebd92e07834dae22ebb7340a1112ac20d79869ec12ef5107938f564dee2661d2"
 metafile = true
 
 [[files]]
@@ -363,6 +376,11 @@ hash = "9851cdbbcb519f6b9f52ae673691581391a3eb6de3c2f9033800fb2bcdcd1307"
 metafile = true
 
 [[files]]
+file = "mods/remove-terralith-intro-message.pw.toml"
+hash = "fe85eb7e13d32999eb376d154be220d82134c534a3f066fa263fb4af11535232"
+metafile = true
+
+[[files]]
 file = "mods/rotten-flesh-to-leather-mod-fabric.pw.toml"
 hash = "789fc1f6e5503999e5188fdb0e15bf3aad6acd1f2788bed9331bbc4978270703"
 metafile = true
@@ -410,6 +428,16 @@ metafile = true
 [[files]]
 file = "mods/storage-delight.pw.toml"
 hash = "ab2473c24a485a9b2a6c9302d8eeeef76d892c4183c7142540274396a7e08ebe"
+metafile = true
+
+[[files]]
+file = "mods/tectonic.pw.toml"
+hash = "4ca11e8b2f08020232bce98e6329e0831b95c9f4be962126ab865aee503a9724"
+metafile = true
+
+[[files]]
+file = "mods/terralith.pw.toml"
+hash = "3b61fcf1c80cfdd79282be71ddfa9cce02fc13f8d87a760db455e2a97b801f40"
 metafile = true
 
 [[files]]

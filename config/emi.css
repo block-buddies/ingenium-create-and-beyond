@@ -152,7 +152,7 @@
 	/**
 	 * The pages in the left sidebar
 	 */
-	left-sidebar-pages: favorites;
+	left-sidebar-pages: none;
 
 	/**
 	 * The subpanels in the left sidebar
