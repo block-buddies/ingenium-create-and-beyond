@@ -22,6 +22,18 @@ file = "config/emi.css"
 hash = "5f2ea9e6ba9f0d650cf3e3cf71f869df8deb14b4170e889f10468ddc105cae80"
 
 [[files]]
+file = "config/ftbquests/quests/chapter_groups.snbt"
+hash = "e57d8311aec9f524911ed1313cabf138bb7fa5a2d3ba985a00a2a267ff35ef78"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/start.snbt"
+hash = "88267f2c82d2dc28687dfda10b70410352788105c7e04e4b4c7f9aaaf9e8d882"
+
+[[files]]
+file = "config/ftbquests/quests/data.snbt"
+hash = "74d1fe5a19ac39c5c455dc89cfd7634796ba977ce2c410b664b05f7bcb159303"
+
+[[files]]
 file = "config/travelerstitles-fabric-1_20.toml"
 hash = "f6073b765370471e88cdc927857a553e16a6262d7aa04e4aa12f4b04fb159a84"
 
@@ -53,6 +65,11 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "13cb21e09b9d0d6622359f24f0bfed0e4123fcbaf7e65a1eb7e5396c47a56349"
+metafile = true
+
+[[files]]
+file = "mods/bellsandwhistles.pw.toml"
+hash = "bee459c3b3739a46717f04675ba175d8a5d26fc00a8683acd4ef5bdfb73a9066"
 metafile = true
 
 [[files]]
@@ -153,6 +170,16 @@ metafile = true
 [[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "965b3cc83e1bca99bd1b89ec5f94495d831fcf7d03317cb50891752b0ca7ddc0"
+metafile = true
+
+[[files]]
+file = "mods/create-railways-navigator.pw.toml"
+hash = "6f074190d0c3770c0e8a1bed339753e70d00733b87f3559ae8d379416d080821"
+metafile = true
+
+[[files]]
+file = "mods/create-steam-n-rails.pw.toml"
+hash = "afa19a7d3c8f5ddeece2ec238d662dcaae58f655adbd2956be5b82f512a016ed"
 metafile = true
 
 [[files]]
@@ -258,6 +285,11 @@ metafile = true
 [[files]]
 file = "mods/indium.pw.toml"
 hash = "3d41978dc3fd1d7b7eebe51a7c04e49707e7e7c66f764a1bed0cc214e4032995"
+metafile = true
+
+[[files]]
+file = "mods/interiors.pw.toml"
+hash = "635e186612c696dfb7ce2b6ba4e667a1d0fc524064cf9a5b1f9fd594bd3dc0ae"
 metafile = true
 
 [[files]]

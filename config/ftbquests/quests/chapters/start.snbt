@@ -1,0 +1,128 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: "diamond"
+	filename: "start"
+	group: ""
+	icon: {
+		Count: 1
+		id: "minecraft:iron_pickaxe"
+		tag: {
+			Damage: 0
+		}
+	}
+	id: "3452CE5F81490DE8"
+	order_index: 0
+	quest_links: [ ]
+	quests: [{
+		id: "41A1DEDFA36D4CBA"
+		rewards: [
+			{
+				id: "57883430607E93A9"
+				item: {
+					Count: 1
+					id: "minecraft:iron_shovel"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}
+			{
+				id: "6180D66FE5F86767"
+				item: {
+					Count: 1
+					id: "minecraft:iron_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}
+			{
+				id: "245A013991F42D3D"
+				item: {
+					Count: 1
+					id: "minecraft:iron_sword"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}
+			{
+				id: "51B83655EEE9AE41"
+				item: {
+					Count: 1
+					id: "minecraft:iron_axe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}
+			{
+				id: "55581C5702847901"
+				item: {
+					Count: 1
+					id: "minecraft:iron_hoe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}
+			{
+				id: "01A2CABA1AC40A86"
+				item: {
+					Count: 1
+					id: "minecraft:golden_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}
+			{
+				id: "5A1D3C5F3A1A8045"
+				item: {
+					Count: 1
+					id: "minecraft:iron_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}
+			{
+				id: "2992A14BC0E891C2"
+				item: {
+					Count: 1
+					id: "minecraft:iron_leggings"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}
+			{
+				id: "760DD23CBFF59FA8"
+				item: {
+					Count: 1
+					id: "minecraft:iron_boots"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}
+		]
+		tasks: [{
+			id: "087EA4EDD529FD75"
+			title: "It's dangerous to go alone! Take this."
+			type: "checkmark"
+		}]
+		x: 2.5d
+		y: -1.0d
+	}]
+	title: "Mach ersch ma die Basics"
+}
