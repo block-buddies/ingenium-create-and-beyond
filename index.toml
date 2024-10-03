@@ -193,6 +193,11 @@ hash = "1eb94c241ed2d519e5bde972b0a7966041684d75cbfc724c3ec55227830316a1"
 metafile = true
 
 [[files]]
+file = "mods/cubes-without-borders.pw.toml"
+hash = "9a25a41714e3cba98573c490583442e3329a07b87bef44df7ac47ac00bac4d5a"
+metafile = true
+
+[[files]]
 file = "mods/decorative-blocks.pw.toml"
 hash = "1e4682a6a43156f149bdf2b0187b78fa2bd9ac201d4544c62942368e4954b038"
 metafile = true
@@ -353,6 +358,16 @@ hash = "1cf87841670e00fca0a57936efda5bdaa6bd6007a3f8edc0f6b546990724b056"
 metafile = true
 
 [[files]]
+file = "mods/malilib.pw.toml"
+hash = "6bfb82960a27af2c360036e01c0131c3ad9c778b4ba5e3df51bafe4f175317db"
+metafile = true
+
+[[files]]
+file = "mods/minihud.pw.toml"
+hash = "e5bf9057e940554a9d6f653af4118d64f09040871c7ada034a697d630fedcab5"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "d7145fd1bd8b4bb6a3b84652a96a68870fb3ab32230f27520bb9362fd17ec39f"
 metafile = true
@@ -445,6 +460,11 @@ metafile = true
 [[files]]
 file = "mods/serversleep.pw.toml"
 hash = "7b952625a03c0f6596cccec24d447ca8352675809fbcf6409835daac9d68d466"
+metafile = true
+
+[[files]]
+file = "mods/servux.pw.toml"
+hash = "9e2386a9331d747b64f30f3854dda2c458cb417768af2a26f418ecd43588fea3"
 metafile = true
 
 [[files]]
