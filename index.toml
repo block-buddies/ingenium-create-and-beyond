@@ -183,6 +183,11 @@ hash = "afa19a7d3c8f5ddeece2ec238d662dcaae58f655adbd2956be5b82f512a016ed"
 metafile = true
 
 [[files]]
+file = "mods/create-track-map.pw.toml"
+hash = "96b0da15913458b2d1aa9ba1f95bb55ea34867625e0018f4c765562dab055313"
+metafile = true
+
+[[files]]
 file = "mods/create-ultimate-factory.pw.toml"
 hash = "de5fe47c2267ebc3af6b1502232a088102949bfcff29a17580e299ab54173df9"
 metafile = true
@@ -440,6 +445,11 @@ metafile = true
 [[files]]
 file = "mods/remove-terralith-intro-message.pw.toml"
 hash = "fe85eb7e13d32999eb376d154be220d82134c534a3f066fa263fb4af11535232"
+metafile = true
+
+[[files]]
+file = "mods/replaymod.pw.toml"
+hash = "cdbf37ae55579219bf8981464f8ec76572e9d0dcec4bd19cd60cd589f4e98f48"
 metafile = true
 
 [[files]]
