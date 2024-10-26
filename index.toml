@@ -172,16 +172,6 @@ hash = "2b59237de53c179aa6906a3ef1335922025e9ce922402a49e33dc78e1a954a6d"
 metafile = true
 
 [[files]]
-file = "mods/create-deco-additions.pw.toml"
-hash = "f7cd6a1ac16a483a1adaad11a43c549281ff0bef56d031b1aa5df330f3b58d02"
-metafile = true
-
-[[files]]
-file = "mods/create-deco.pw.toml"
-hash = "023532063fbf310dd047a33cf1afd06b0c4baf72da4dc23e78d1d599ad5dcccd"
-metafile = true
-
-[[files]]
 file = "mods/create-enchantment-industry-fabric.pw.toml"
 hash = "8530bb8ab9c96826845acbebf96a0fd136ddacd68e3834c18d717b81b690aca1"
 metafile = true
@@ -239,11 +229,6 @@ metafile = true
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "4bcaa2365c49e63ddb09bfe2ac2fd741ac1e2a4f6e774e423ee54e94c1a75837"
-metafile = true
-
-[[files]]
-file = "mods/eureka.pw.toml"
-hash = "8ea11b348e14a256d830dd40f0e1d6736d069a8cc1e0b2a6747db6256be5247f"
 metafile = true
 
 [[files]]
@@ -319,11 +304,6 @@ metafile = true
 [[files]]
 file = "mods/indium.pw.toml"
 hash = "3d41978dc3fd1d7b7eebe51a7c04e49707e7e7c66f764a1bed0cc214e4032995"
-metafile = true
-
-[[files]]
-file = "mods/interactive.pw.toml"
-hash = "a12098d8857d693e514cca569eb529020a9b0fdc04e1a9ce4fcd5bd4a5fc1ea8"
 metafile = true
 
 [[files]]
@@ -579,11 +559,6 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "ffdb79f5bc29f990e5889f5d159a043c7046b8cd8d79f17f54b44d7ccc2b242a"
-metafile = true
-
-[[files]]
-file = "mods/valkyrien-skies.pw.toml"
-hash = "bc7e0f9a0c6c0a07b3d9b5d43ca3891356a841ba71b25e148d237c7f7342a51d"
 metafile = true
 
 [[files]]
