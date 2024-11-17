@@ -112,21 +112,6 @@ hash = "615f493a610e1c1c66c558e5a5c8943b95c639fffe50abf6c605784ef6a0cade"
 metafile = true
 
 [[files]]
-file = "mods/chunky-extension.pw.toml"
-hash = "28ffbaeee6a9331f5a08458718e1b9e39127bec8dad7af8e14ec277e6b6c3837"
-metafile = true
-
-[[files]]
-file = "mods/chunky.pw.toml"
-hash = "b1581bbfae9d16690f4022536da6567f000130c4ea5e04d92177c1bc61fea709"
-metafile = true
-
-[[files]]
-file = "mods/chunkyborder.pw.toml"
-hash = "37452adad873d86343d8569ac9c628eaac4bcf2f1f98487d03f40126bbe80e48"
-metafile = true
-
-[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "3af7d46849f1295e82437766c52e9a8635ce2c15e47870758f9d98ffb267ff25"
 metafile = true
@@ -603,12 +588,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "521ac36fcf59c7c5ba258a9c80bf484e3ce826a7588d0a1560c5a5ce26d610f1"
+hash = "20ab021c729121e23170c87b1da44e131caf80393ea478dab896cea8bc3f65eb"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "01086a504d6c5a1d4e4983a4f047bf675725583d40531f5b6972f11f4ff98de0"
+hash = "12262a6fc189ddd24d3231a59054e07c3cd12dcba364055244f41e8331f139fb"
 metafile = true
 
 [[files]]
