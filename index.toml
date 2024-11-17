@@ -157,6 +157,11 @@ hash = "72a03d7c8d1b19b9fbc917d94bb7d15ad4379fbf4d96384cd86069352216beac"
 metafile = true
 
 [[files]]
+file = "mods/craterlib.pw.toml"
+hash = "b8cafa8b626f483412ec8220638883911e0979e39f1c482e9380d2c53c878e33"
+metafile = true
+
+[[files]]
 file = "mods/create-cobblestone.pw.toml"
 hash = "c7e297a469a54cbfce1a02bafa6bdb71697f874ada3eb454efe825f6084167a2"
 metafile = true
@@ -374,6 +379,11 @@ metafile = true
 [[files]]
 file = "mods/macaws-windows.pw.toml"
 hash = "1cf87841670e00fca0a57936efda5bdaa6bd6007a3f8edc0f6b546990724b056"
+metafile = true
+
+[[files]]
+file = "mods/maintenancemode.pw.toml"
+hash = "be97476a17c343a9e5c2b5ba2616ed77b134777ceb23fa40940abd42acc128c2"
 metafile = true
 
 [[files]]
