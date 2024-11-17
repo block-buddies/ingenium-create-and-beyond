@@ -39,4 +39,6 @@ packwiz mr install <name>
 packwiz remove <name>
 packwiz mr export -o dist/ingenium.mrpack
 packwiz refresh
+packwiz update -a
+packwiz pin <name>
 ```
