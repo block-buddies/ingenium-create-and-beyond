@@ -34,6 +34,10 @@ file = "config/ftbquests/quests/data.snbt"
 hash = "74d1fe5a19ac39c5c455dc89cfd7634796ba977ce2c410b664b05f7bcb159303"
 
 [[files]]
+file = "config/fwaystones/config.json5"
+hash = "94ee2b88151693ef6f9a1afd88970875feb65a217bb955c0927cc2eed4b885b7"
+
+[[files]]
 file = "config/replaymod.json"
 hash = "c9a9178eb72370e85a23a2c82e549e444fb669dc0dddac60877f05c88c4836ed"
 
